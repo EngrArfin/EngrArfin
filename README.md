@@ -1,7 +1,6 @@
 # Md Samsel Arfin
 I completed my graduation in B.sc in Computer Science and Engineering.Skilled in HTML, CSS, JavaScript, React, Node.js, MongoDB, Express.js, and modern tools like Next.js, TypeScript, Tailwind CSS, Redux, GraphQL, Docker, AWS, and more. I craft scalable, user-focused web solutions with expertise in UI/UX design, backend development, and cloud deployment. 🚀 
 ![Banner](./banner1.png)
-![Banner](./banner.png)
 
 <h1 align="center">Hi 👋, I'm Md Samsel Arfin </h1>
 <h3 align="center">A passionate MERN Full Stack developer from Bangladesh</h3>
