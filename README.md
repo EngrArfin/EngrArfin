@@ -4,7 +4,7 @@ I completed my graduation in B.sc in Computer Science and Engineering.Skilled in
 <h3 align="center">A passionate MERN Full Stack developer from Bangladesh</h3>
 
 
-<img align="right" alt="Coding" width="400" src={banner.png}>
+
 
 <img align="right" alt="Coding" width="400" src="http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
