@@ -1,4 +1,4 @@
-# Engr-S-Arfin
+# Md Samsel Arfin
 I completed my graduation in B.sc in Computer Science and Engineering.
 <h1 align="center">Hi 👋, I'm Md Samsel Arfin </h1>
 <h3 align="center">A passionate MERN Full Stack developer from Bangladesh</h3>
