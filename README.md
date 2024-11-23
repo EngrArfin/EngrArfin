@@ -2,9 +2,9 @@
 I completed my graduation in B.sc in Computer Science and Engineering.Skilled in HTML, CSS, JavaScript, React, Node.js, MongoDB, Express.js, and modern tools like Next.js, TypeScript, Tailwind CSS, Redux, GraphQL, Docker, AWS, and more. I craft scalable, user-focused web solutions with expertise in UI/UX design, backend development, and cloud deployment. 🚀 
 <h1 align="center">Hi 👋, I'm Md Samsel Arfin </h1>
 <h3 align="center">A passionate MERN Full Stack developer from Bangladesh</h3>
-![7 College apply](https://github.com/user-attachments/assets/97bf11ed-9285-4e9d-b5cf-0441cd9c8e18)
 
 
+<img align="right" alt="Coding" width="400" src={banner.png}>
 
 <img align="right" alt="Coding" width="400" src="http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
