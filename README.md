@@ -13,7 +13,7 @@ Let’s connect and collaborate on impactful projects!
 
 📧 Email: arfin.cse.green.edu.bd@gmail.com
 📱 WhatsApp: +880 1952-487468
-🔗 Portfolio: arfindev.vercel.app
+🔗 Portfolio: [arfindev.vercel.app](https://arfindev.vercel.app/)
 
 
 
