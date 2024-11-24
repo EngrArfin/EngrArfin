@@ -8,6 +8,10 @@
 <h1 align="center">Hi 👋, I'm Md Samsel Arfin </h1> 
 A MERN stack developer skilled in building responsive full-stack applications with features like user authentication and e-commerce functionality. I’m looking to collaborate on projects using Redux, ShadCN, Next.js, and tools like GraphQL and Docker, while gaining hands-on experience with AWS and DevOps. Currently, I’m exploring advanced TypeScript, GraphQL, and Docker. I’m actively seeking a job where I can contribute my skills and grow as a full-stack developer. Ask me about web development, APIs, or UI design—I love experimenting with modern tools to create sleek, functional interfaces!
 
+Let’s connect and collaborate on impactful projects!
+📧 Email: arfin.cse.green.edu.bd@gmail.com
+📱 WhatsApp: +880 1952-487468
+
 
 
 
